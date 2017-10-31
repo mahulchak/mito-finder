@@ -3,7 +3,7 @@ Assembling mitochondrial genomes from long molecule sequences
 
 <b>Why mito-finder?</b>
 
-While assembling the nuclear genomes, I have noticed that Falcon,canu, and all other amazing assemblers either completely fail to assemble the mitochonrial genome or they assemble the mitochondrial genome incorrectly. This is not surprising given that mitochondrial genomes are smaller than bulk of the input DNA (we throw away input DNA under 20kb, some throw away everythng under 30Kb). So instead of relying on the assemblers to assemble the mitochindrial genome for me, I decided to go via a different route.
+While assembling the nuclear genomes, I have noticed that Falcon,canu, and all other amazing assemblers either completely fail to assemble the mitochonrial genome or they assemble the mitochondrial genome incorrectly. This is not surprising given that mitochondrial genomes are smaller than bulk of the input DNA (we throw away input DNA under 20kb, some throw away everythng under 30Kb). So instead of relying on the assemblers to assemble the mitochindrial genome for me, I decided to go via a different route. If you end up using this method of extracting mitochondrial genomes from your sequences, I would appreciate if you cited my paper that used this method first: https://www.biorxiv.org/content/early/2017/03/08/114967
 
 <b>How does this work?</b>
 
